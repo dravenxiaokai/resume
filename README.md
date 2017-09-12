@@ -1,1 +1,1 @@
-[](https://raw.githubusercontent.com/dravenxiaokai/resume/master/pankai.pdf)
+https://raw.githubusercontent.com/dravenxiaokai/resume/master/pankai.pdf
